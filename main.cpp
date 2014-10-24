@@ -10,5 +10,7 @@ int main()
     cin>>x>>y;
  cout<<"sum: "<<x+y<<endl;
  cout<<"dif: "<<x-y<<endl;
+ cout<<"dif: "<<x-y<<endl;
  cout<<"mult: "<<x*y;
+ cout<<"del: "<<x/y;
 }

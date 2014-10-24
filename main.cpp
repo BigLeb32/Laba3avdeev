@@ -1,9 +1,13 @@
 #include<sdt.h>
 
 int main()
-{ double x,y;
- cout<<"Enter two numbers, pls!"<<endl;
- cin>>x>>y;
+
+{
+    //This is study pogram
+
+    double x,y;
+    cout<<"Enter two numbers, pls!"<<endl;
+    cin>>x>>y;
  cout<<"sum: "<<x+y<<endl;
  cout<<"dif: "<<x-y;
 }
